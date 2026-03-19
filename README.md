@@ -25,8 +25,8 @@ Req Flow Agent is a set of OpenCode AI skills that automate the full test develo
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone the repository
-git clone https://github.com/patrikzakovic/req_flow_agent.git
-cd req_flow_agent
+git clone https://github.com/patrikzakovic/req-flow-agent.git
+cd req-flow-agent
 
 # Create virtual environment and install dependencies
 uv sync
